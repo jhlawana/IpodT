@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background: url('trymuna.jpg');
+  background-image: url('trymuna.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
